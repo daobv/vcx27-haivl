@@ -1,0 +1,480 @@
+2014/03/29 04:21:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:21:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:21:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:21:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/site/index
+---
+2014/03/29 04:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/images/icons/cross_grey_small.png".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/images/icon...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/images/icons/cross_grey_small.png
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:22:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/post/admin
+---
+2014/03/29 04:23:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/category/admin
+---
+2014/03/29 04:23:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.c...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/bootstrap.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/site/login
+---
+2014/03/29 04:23:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/post/admin
+---
+2014/03/29 04:23:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/page/admin
+---
+2014/03/29 04:23:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/site/index
+---
+2014/03/29 04:23:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/category/admin
+---
+2014/03/29 04:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/client_val_form.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/client_val_...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/client_val_form.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/json2.js".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('js/json2.js')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/js/json2.js
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/menu/admin
+---
+2014/03/29 04:23:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/post/admin
+---
+2014/03/29 04:23:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/page/admin
+---
+2014/03/29 04:24:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "danh-muc/kenh-1".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('danh-muc/kenh-1')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/danh-muc/kenh-1.html
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/
+---
+2014/03/29 04:25:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/colorbox/colorbox.css".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('css/colorbox/co...')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/css/colorbox/colorbox.css
+HTTP_REFERER=http://hiennd.com/yii/vcx27-haivl/admin.php/post/admin
+---
+2014/03/29 04:25:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "danh-muc/kenh-1".' in E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\web\CWebApplication.php(141): CWebApplication->runController('danh-muc/kenh-1')
+#1 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\protected\components\WebApplicationEndBehavior.php(21): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('home')
+#4 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CComponent->__call('runEnd', Array)
+#6 E:\WEB LOCAL\htdocs\yii\vcx27-haivl\index.php(11): CWebApplication->runEnd('home')
+#7 {main}
+REQUEST_URI=/yii/vcx27-haivl/danh-muc/kenh-1.html
+---
